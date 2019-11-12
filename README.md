@@ -18,7 +18,8 @@ This sample uses the Gradle build system.
 
 Screenshots
 --------------
-![Screenshot_20190410-190731_NY Times](https://user-images.githubusercontent.com/1998254/55886139-43252d80-5bbc-11e9-8839-1930dca5c994.jpg)
-![Screenshot_20190410-190802_NY Times](https://user-images.githubusercontent.com/1998254/55886318-88e1f600-5bbc-11e9-95d1-a8a147015039.jpg)
+![SmartSelect_20191112-181410_NY Times](https://user-images.githubusercontent.com/1998254/68679417-42e97800-0579-11ea-8dff-2b776bf241fc.jpg)
+![SmartSelect_20191112-181356_NY Times](https://user-images.githubusercontent.com/1998254/68679433-4846c280-0579-11ea-9e5a-87d1ae69cb29.jpg)
+
 
 
